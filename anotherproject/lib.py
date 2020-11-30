@@ -9,6 +9,9 @@ import datetime
 
 pd.set_option('display.width', 200)
 
+def aliciakeys():
+    print('i keep on fallin, in and out, of love, with you')
+
 
 def clean_data(data):
     """ clean data
